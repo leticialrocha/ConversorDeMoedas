@@ -30,7 +30,7 @@ Principal: Classe que gerencia o loop do menu, a captura de dados via Scanner e 
 
 Application: Ponto de entrada que inicia a execução do programa.
 
-###  Como Executar
+### Como Executar
 Clone o repositório.
 
 Cadastre seu e-mail no site da ExchangeRate-API para obter sua chave gratuita.
