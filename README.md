@@ -1,7 +1,7 @@
-##Conversor de Moedas - Challenge Java   ♡₊˚ 
+## Conversor de Moedas - Challenge Java   ♡₊˚ 
 O Conversor de Moedas é um desafio de programação que consiste em desenvolver uma ferramenta de conversão de valores em tempo real, integrando uma API externa (ExchangeRate-API) para obter cotações dinâmicas. O sistema oferece uma interface interativa via terminal para facilitar o cálculo de câmbio entre diferentes moedas globais.
 
- ### Funcionalidades
+### Funcionalidades
 Conversão em Tempo Real: Consulta taxas de câmbio atualizadas via API para garantir cálculos precisos.
 
 Menu Interativo: Oferece 6 opções de conversão pré-definidas para agilizar a navegação do usuário.
@@ -10,7 +10,7 @@ Suporte a Múltiplas Moedas: Realiza conversões entre Dólar (USD), Real (BRL),
 
 Entrada Dinâmica: O usuário informa o valor que deseja converter e recebe o resultado instantaneamente no console.
 
- ###  Tecnologias e Lógica
+###  Tecnologias e Lógica
 Java 21: Versão mais recente utilizada para o desenvolvimento da aplicação.
 
 Maven: Gerenciador de dependências para automação e organização do projeto.
