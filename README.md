@@ -21,7 +21,7 @@ HttpClient: Utilizado para realizar as requisições HTTP e obter a resposta da 
 
 ExchangeRate-API: Fonte de dados dinâmica para consulta de taxas de câmbio mundiais.
 
- ### Estrutura do Projeto
+### Estrutura do Projeto
 Model: Contém o Record Moeda para mapeamento direto dos campos JSON (base_code e conversion_rates).
 
 Service: Classe ConsultaMoeda responsável pela lógica de conexão, autenticação e busca de dados.
@@ -30,7 +30,7 @@ Principal: Classe que gerencia o loop do menu, a captura de dados via Scanner e 
 
 Application: Ponto de entrada que inicia a execução do programa.
 
- ###  Como Executar
+###  Como Executar
 Clone o repositório.
 
 Cadastre seu e-mail no site da ExchangeRate-API para obter sua chave gratuita.
